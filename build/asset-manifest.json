@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/typing-test-app/static/css/main.c477aa30.chunk.css",
+    "main.js": "/typing-test-app/static/js/main.cddfb73e.chunk.js",
+    "main.js.map": "/typing-test-app/static/js/main.cddfb73e.chunk.js.map",
+    "runtime-main.js": "/typing-test-app/static/js/runtime-main.ccd8eaca.js",
+    "runtime-main.js.map": "/typing-test-app/static/js/runtime-main.ccd8eaca.js.map",
+    "static/js/2.f477156f.chunk.js": "/typing-test-app/static/js/2.f477156f.chunk.js",
+    "static/js/2.f477156f.chunk.js.map": "/typing-test-app/static/js/2.f477156f.chunk.js.map",
+    "static/js/3.79615d18.chunk.js": "/typing-test-app/static/js/3.79615d18.chunk.js",
+    "static/js/3.79615d18.chunk.js.map": "/typing-test-app/static/js/3.79615d18.chunk.js.map",
+    "index.html": "/typing-test-app/index.html",
+    "static/css/main.c477aa30.chunk.css.map": "/typing-test-app/static/css/main.c477aa30.chunk.css.map",
+    "static/js/2.f477156f.chunk.js.LICENSE.txt": "/typing-test-app/static/js/2.f477156f.chunk.js.LICENSE.txt",
+    "static/media/beep.wav": "/typing-test-app/static/media/beep.c4d01acc.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd8eaca.js",
+    "static/js/2.f477156f.chunk.js",
+    "static/css/main.c477aa30.chunk.css",
+    "static/js/main.cddfb73e.chunk.js"
+  ]
+}
